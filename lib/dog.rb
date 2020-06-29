@@ -8,4 +8,4 @@ class Dog
   end
 end
 
-Dog Lassie
+Dog (Lassie)
